@@ -6,7 +6,7 @@ Binôme : Jules Balluais
 
 Thème : versionner des mesures physiques avec Git
 
-Objectif : versionner des mesures simulées
+Objectif : comparer température et humidité
 
 Matériel : Raspberry Pi + portables
 
