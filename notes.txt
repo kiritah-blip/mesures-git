@@ -2,3 +2,4 @@ Description des colonnes de mesures.csv :
 - date : date de la mesure (format AAAA-MM-JJ)
 - capteur : identifiant du capteur (temp_ = température, pression_ = pression)
 - valeur : valeur mesurée (°C pour la température, hPa pour la pression)
+Modification faite depuis GitHub
